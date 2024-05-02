@@ -1,7 +1,7 @@
 using OpenQA.Selenium;
 using System.Collections.ObjectModel;
 
-namespace Program
+namespace TestProject
 {
     public class SearchContextExpectedConditions
     {
