@@ -1,7 +1,7 @@
 using OpenQA.Selenium;
 using System.Collections.ObjectModel;
 
-namespace BeeonTrade
+namespace Program
 {
     public class SearchContextExpectedConditions
     {
