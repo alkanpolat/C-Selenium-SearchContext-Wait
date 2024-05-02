@@ -1,4 +1,4 @@
-using BeeonTrade;
+using TestProject;
 using OpenQA.Selenium;
 
 public class Program
