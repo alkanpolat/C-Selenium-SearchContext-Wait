@@ -1,7 +1,7 @@
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
 
-namespace Program
+namespace TestProject
 {
     public class SearchContextWait : DefaultWait<ISearchContext>
     {
